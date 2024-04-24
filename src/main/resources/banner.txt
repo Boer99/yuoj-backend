@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "id": "1773975176701763586",
+        "userId": "1773236867792826369",
+        "createTime": "2024-03-29T23:26:54.000+00:00",
+        "updateTime": "2024-03-29T23:26:54.000+00:00",
+        "questionId": "1773938747149860866",
+        "language": "java",
+        "code": "asdfdsfdgdf",
+        "status": 0,
+        "judgeInfo": {
+          "message": null,
+          "memory": null,
+          "time": null
+        },
+        "userVO": null,
+        "questionVO": null
+      },
+      {
+        "id": "1774007285231345666",
+        "userId": "1773236867792826369",
+        "createTime": "2024-03-30T01:34:29.000+00:00",
+        "updateTime": "2024-03-30T01:34:29.000+00:00",
+        "questionId": "1773938747149860866",
+        "language": "c++",
+        "code": "asdfdsfdgdf",
+        "status": 0,
+        "judgeInfo": {
+          "message": null,
+          "memory": null,
+          "time": null
+        },
+        "userVO": null,
+        "questionVO": null
+      },
+      {
+        "id": "1774007366219161601",
+        "userId": "1774006847346008065",
+        "createTime": "2024-03-30T01:34:49.000+00:00",
+        "updateTime": "2024-03-30T01:34:49.000+00:00",
+        "questionId": "1773938747149860866",
+        "language": "golang",
+        "code": "asdfdsfdgdf",
+        "status": 0,
+        "judgeInfo": {
+          "message": null,
+          "memory": null,
+          "time": null
+        },
+        "userVO": null,
+        "questionVO": null
+      }
+    ],
+    "total": "3",
+    "size": "5",
+    "current": "1",
+    "orders": [],
+    "optimizeCountSql": true,
+    "searchCount": true,
+    "countId": null,
+    "maxLimit": null,
+    "pages": "1"
+  },
+  "message": "ok"
+}

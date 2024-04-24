@@ -1,0 +1,51 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "id": "1773961422782058497",
+        "title": "A + B",
+        "tags": "[\"栈\",\"简单\"]",
+        "thumbNum": 0,
+        "favourNum": 0,
+        "userId": "1773236867792826369",
+        "createTime": "2024-03-29T22:32:15.000+00:00",
+        "updateTime": "2024-03-29T22:32:15.000+00:00",
+        "isDelete": 0,
+        "content": "test",
+        "answer": "暴力破解",
+        "submitNum": 0,
+        "acceptedNum": 0,
+        "judgeCase": "{\"input\":\"1 2\",\"output\":\"3 4\"}",
+        "judgeConfig": "{\"timeLimit\":1000,\"memoryLimit\":1000,\"stackLimit\":1000}"
+      },
+      {
+        "id": "1773961428867993601",
+        "title": "A + B",
+        "tags": "[\"栈\",\"简单\"]",
+        "thumbNum": 0,
+        "favourNum": 0,
+        "userId": "1773236867792826369",
+        "createTime": "2024-03-29T22:32:16.000+00:00",
+        "updateTime": "2024-03-29T22:32:16.000+00:00",
+        "isDelete": 0,
+        "content": "test",
+        "answer": "暴力破解",
+        "submitNum": 0,
+        "acceptedNum": 0,
+        "judgeCase": "{\"input\":\"1 2\",\"output\":\"3 4\"}",
+        "judgeConfig": "{\"timeLimit\":1000,\"memoryLimit\":1000,\"stackLimit\":1000}"
+      }
+    ],
+    "total": "2",
+    "size": "5",
+    "current": "1",
+    "orders": [],
+    "optimizeCountSql": true,
+    "searchCount": true,
+    "countId": null,
+    "maxLimit": null,
+    "pages": "1"
+  },
+  "message": "ok"
+}
